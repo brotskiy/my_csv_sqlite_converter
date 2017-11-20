@@ -1,0 +1,10 @@
+--style=allman 
+--indent=spaces=2
+--indent-classes
+--indent-switches
+--indent-namespaces
+--pad-oper
+--pad-comma
+--pad-header
+--remove-braces
+--align-pointer=type
